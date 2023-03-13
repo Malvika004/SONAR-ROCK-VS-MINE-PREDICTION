@@ -1,11 +1,8 @@
 # SONAR-ROCK-VS-MINE-PREDICTION
-Sonar\_Rock\_V/S\_Mine\_Prediction
-
 -----
 The aim of this project is to predict whether there is a Rock or a Mine underwater using a dataset from kaggle and Machine Learning.
 
-Libraries used:-
-
+# Libraries used:-
 -----
 - **Numpy**
 
@@ -48,8 +45,7 @@ Scikit-learn (Sklearn) is the most useful and robust library for machine learnin
 - **train\_test\_split-** Using [train_test_split()](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html) from the data science library [scikit-learn](https://scikit-learn.org/stable/index.html), you can split your dataset into subsets that minimize the potential for bias in your evaluation and validation process.
 - **accuracy\_score-** This function computes subset accuracy: the set of labels predicted for a sample must exactly match the corresponding set of labels in y\_true.
 
-Algorithm used:-
-
+# Algorithm used:-
 -----
 - **Logistic Regression**
 
@@ -71,15 +67,13 @@ each individual input variable, together with a measure of certainty of the
 
 variable's effect.
 
-Data Analysis
-
+# Data Analysis
 -----
 ![](Aspose.Words.d5578580-1c0b-457a-af8c-e36e626586a4.009.jpeg)
 
 ![](Aspose.Words.d5578580-1c0b-457a-af8c-e36e626586a4.010.png)
 
-Model Analysis
-
+# Model Analysis
 -----
 - With an accuracy score of 83.42% on training data and an accuracy of 76.19% on test data, our model will predict whether the underwater obstacle is a Mine or a Rock.
 
@@ -89,7 +83,6 @@ Model Analysis
 
 ![](Aspose.Words.d5578580-1c0b-457a-af8c-e36e626586a4.013.png)
 
-Deep Down, Safety Comes First
-
+# Deep Down, Safety Comes First
 -----
 ![](Aspose.Words.d5578580-1c0b-457a-af8c-e36e626586a4.014.jpeg)
